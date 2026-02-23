@@ -1,5 +1,12 @@
 # cognitive-port-service-51
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/cognitive-port-service-51/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/cognitive-port-service-51/actions)
+![License](https://img.shields.io/github/license/yksanjo/cognitive-port-service-51)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/cognitive-port-service-51)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/cognitive-port-service-51)
+
 ## Detailed Description
 
 cognitive-port-service-51 is maintained as an industry-grade software project with production-ready engineering practices.  
